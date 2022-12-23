@@ -1,5 +1,4 @@
 ## Title: Float
 ## Interface: 100002
 
-libs/Library/Library.lua
 Float.lua

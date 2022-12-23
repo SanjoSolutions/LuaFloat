@@ -2,4 +2,5 @@
 ## Interface: 11403
 ## Version: 1.0.1
 
-Float.xml
+libs/Library/Library.lua
+Float.lua

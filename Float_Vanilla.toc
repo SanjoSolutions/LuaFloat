@@ -1,6 +1,6 @@
 ## Title: Float
 ## Interface: 11403
-## Version: 1.0.1
+## Version: 1.0.0
 
 libs/Library/Library.lua
 Float.lua

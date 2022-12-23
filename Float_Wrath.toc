@@ -2,5 +2,4 @@
 ## Interface: 30400
 ## Version: 1.0.1
 
-libs/Library/Library.lua
-Float.lua
+Float.xml

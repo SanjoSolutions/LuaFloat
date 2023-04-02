@@ -1,4 +1,4 @@
 ## Title: Float
-## Interface: 100005
+## Interface: 100007
 
 Float.lua

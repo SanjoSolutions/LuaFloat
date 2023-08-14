@@ -1,6 +1,6 @@
 {
-  "name": "Float",
+  "name": "@sanjo-addons/float",
   "dependencies": {
-    "Library": "SanjoSolutions/LuaLibrary#v0.4.0"
+    "@sanjo-addons/library": "SanjoSolutions/LuaLibrary#v0.4.0"
   }
 }

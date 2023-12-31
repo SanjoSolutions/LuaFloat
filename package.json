@@ -1,6 +1,6 @@
 {
   "name": "@sanjo-addons/float",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "dependencies": {
     "@sanjo-addons/library": "^0.5.0"
   },
